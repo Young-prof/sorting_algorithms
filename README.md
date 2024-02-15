@@ -89,10 +89,7 @@ What you should learn from this project:
 ---
 
 ## Author:
-* **KARLIE MOYO**
- - [GitHub](https://github.com/Karlie-crypto)
- - [Twitter](https://twitter.com/karlieemoyo)
+* **Tekenatei Franklyn**
 
 
-   COLLABORATION:
-   [Cellphone](+27844775229)
+  
